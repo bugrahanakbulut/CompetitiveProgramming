@@ -1,4 +1,5 @@
 ﻿using System;
+using LeetCode.Problems;
 
 namespace LeetCode
 {
@@ -6,7 +7,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
