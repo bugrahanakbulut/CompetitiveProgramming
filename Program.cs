@@ -1,5 +1,4 @@
-﻿using System;
-using LeetCode.Problems;
+﻿using LeetCode.Problems;
 
 namespace LeetCode
 {
@@ -7,10 +6,6 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            TaskScheduler_Solution sol = new TaskScheduler_Solution();
-
-            sol.LeastInterval("AAABBBCCCDDE".ToCharArray(), 2);
-            
         }
     }
 }
